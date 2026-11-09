@@ -1,23 +1,21 @@
-# BORRADOR — NO PUBLICAR SIN COMPLETAR.
-# Pendiente de confirmación por el titular: autores (nombres, afiliaciones, ORCID), licencia,
-# fecha de publicación y DOI. No se inventó ninguno de estos datos.
+```yaml
 cff-version: 1.2.0
-message: "Si utiliza este código, cítelo con los metadatos de este archivo."
+message: "If you use this code or aggregated results, please cite it as below."
+title: "Analysis code and aggregated results: Factors associated with recorded stillbirth in singleton pregnancies at Hospital General Docente Calderón, Quito, Ecuador, 2018–2023"
+abstract: "Replication code, environment definitions, and aggregated epidemiological summaries for the retrospective study on stillbirth at Hospital General Docente Calderón (HGDC). Does not contain individual patient data."
 type: software
-title: "Código y resultados agregados: Características asociadas con muerte fetal registrada en gestaciones únicas del Hospital General Docente Calderón, Quito, Ecuador, 2018–2023"
-version: 1.0.0
 authors:
-  - name: "PENDIENTE: autores confirmados por el titular de los derechos"
-abstract: >-
-  Código de reconstrucción y análisis, y resultados agregados de un estudio
-  transversal retrospectivo de registros hospitalarios (2018–2023) sobre
-  características asociadas con muerte fetal registrada en gestaciones únicas
-  del Hospital General Docente Calderón (Quito, Ecuador). No incluye datos
-  individuales; el acceso a la base requiere autorización del Hospital General
-  Docente Calderón (HGDC).
+  - family-names: "Vasco-Morales"
+    given-names: "Santiago"
+    orcid: "https://orcid.org/0000-0002-3622-4822"
+    affiliation: "Grupo de Investigación en Salud Infantil y Perinatal (ISIP), Universidad Central del Ecuador, Quito, Ecuador"
+repository-code: "https://github.com/santiagopediatra/muerte-fetal-hgdc-codigo"
 keywords:
-  - muerte fetal registrada
-  - desprendimiento prematuro de placenta
-  - gestaciones únicas
-  - registros hospitalarios
-  - Ecuador
+  - stillbirth
+  - fetal mortality
+  - perinatal epidemiology
+  - Bayesian logistic regression
+  - R
+license: MIT
+version: 1.0.0
+date-released: "2026-11-08"
