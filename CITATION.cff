@@ -1,13 +1,12 @@
-```yaml
 cff-version: 1.2.0
-message: "If you use this code or aggregated results, please cite it as below."
+message: "If you use this software, please cite it as below."
 title: "Analysis code and aggregated results: Factors associated with recorded stillbirth in singleton pregnancies at Hospital General Docente Calderón, Quito, Ecuador, 2018–2023"
 abstract: "Replication code, environment definitions, and aggregated epidemiological summaries for the retrospective study on stillbirth at Hospital General Docente Calderón (HGDC). Does not contain individual patient data."
 type: software
 authors:
   - family-names: "Vasco-Morales"
     given-names: "Santiago"
-    orcid: "https://orcid.org/0000-0002-3622-4822"
+    orcid: "https://orcid.org/0000-0002-1370-9700"
     affiliation: "Grupo de Investigación en Salud Infantil y Perinatal (ISIP), Universidad Central del Ecuador, Quito, Ecuador"
 repository-code: "https://github.com/santiagopediatra/muerte-fetal-hgdc-codigo"
 keywords:
@@ -17,5 +16,5 @@ keywords:
   - Bayesian logistic regression
   - R
 license: MIT
-version: 1.0.0
+version: 1.1.0
 date-released: "2026-11-08"
