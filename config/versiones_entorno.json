@@ -1,0 +1,726 @@
+{
+  "R": "4.5.0",
+  "CmdStan": "2.39.0",
+  "Packages": [
+    {
+      "Package": "readxl",
+      "Version": "1.4.5",
+      "Priority": "external"
+    },
+    {
+      "Package": "openxlsx",
+      "Version": "4.2.8",
+      "Priority": "external"
+    },
+    {
+      "Package": "jsonlite",
+      "Version": "1.9.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "logistf",
+      "Version": "1.26.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "car",
+      "Version": "3.1-3",
+      "Priority": "external"
+    },
+    {
+      "Package": "lpSolve",
+      "Version": "5.6.23",
+      "Priority": "external"
+    },
+    {
+      "Package": "ggplot2",
+      "Version": "4.0.3",
+      "Priority": "external"
+    },
+    {
+      "Package": "brms",
+      "Version": "2.23.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "cmdstanr",
+      "Version": "0.9.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "posterior",
+      "Version": "1.7.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "cellranger",
+      "Version": "1.1.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "tibble",
+      "Version": "3.2.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "utils",
+      "Version": "4.5.0",
+      "Priority": "base"
+    },
+    {
+      "Package": "cpp11",
+      "Version": "0.5.2",
+      "Priority": "external"
+    },
+    {
+      "Package": "progress",
+      "Version": "1.2.3",
+      "Priority": "external"
+    },
+    {
+      "Package": "rematch",
+      "Version": "2.0.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "crayon",
+      "Version": "1.5.3",
+      "Priority": "external"
+    },
+    {
+      "Package": "hms",
+      "Version": "1.1.3",
+      "Priority": "external"
+    },
+    {
+      "Package": "prettyunits",
+      "Version": "1.2.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "R6",
+      "Version": "2.6.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "fansi",
+      "Version": "1.0.6",
+      "Priority": "external"
+    },
+    {
+      "Package": "lifecycle",
+      "Version": "1.0.5",
+      "Priority": "external"
+    },
+    {
+      "Package": "magrittr",
+      "Version": "2.0.3",
+      "Priority": "external"
+    },
+    {
+      "Package": "methods",
+      "Version": "4.5.0",
+      "Priority": "base"
+    },
+    {
+      "Package": "pillar",
+      "Version": "1.10.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "pkgconfig",
+      "Version": "2.0.3",
+      "Priority": "external"
+    },
+    {
+      "Package": "rlang",
+      "Version": "1.3.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "vctrs",
+      "Version": "0.7.3",
+      "Priority": "external"
+    },
+    {
+      "Package": "grDevices",
+      "Version": "4.5.0",
+      "Priority": "base"
+    },
+    {
+      "Package": "cli",
+      "Version": "3.6.4",
+      "Priority": "external"
+    },
+    {
+      "Package": "stats",
+      "Version": "4.5.0",
+      "Priority": "base"
+    },
+    {
+      "Package": "glue",
+      "Version": "1.8.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "utf8",
+      "Version": "1.2.4",
+      "Priority": "external"
+    },
+    {
+      "Package": "graphics",
+      "Version": "4.5.0",
+      "Priority": "base"
+    },
+    {
+      "Package": "Rcpp",
+      "Version": "1.1.2",
+      "Priority": "external"
+    },
+    {
+      "Package": "stringi",
+      "Version": "1.8.4",
+      "Priority": "external"
+    },
+    {
+      "Package": "zip",
+      "Version": "2.3.2",
+      "Priority": "external"
+    },
+    {
+      "Package": "tools",
+      "Version": "4.5.0",
+      "Priority": "base"
+    },
+    {
+      "Package": "mice",
+      "Version": "3.17.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "mgcv",
+      "Version": "1.9-3",
+      "Priority": "recommended"
+    },
+    {
+      "Package": "formula.tools",
+      "Version": "1.7.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "Matrix",
+      "Version": "1.7-3",
+      "Priority": "recommended"
+    },
+    {
+      "Package": "operator.tools",
+      "Version": "1.6.3.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "grid",
+      "Version": "4.5.0",
+      "Priority": "base"
+    },
+    {
+      "Package": "lattice",
+      "Version": "0.22-7",
+      "Priority": "recommended"
+    },
+    {
+      "Package": "nlme",
+      "Version": "3.1-168",
+      "Priority": "recommended"
+    },
+    {
+      "Package": "splines",
+      "Version": "4.5.0",
+      "Priority": "base"
+    },
+    {
+      "Package": "broom",
+      "Version": "1.0.7",
+      "Priority": "external"
+    },
+    {
+      "Package": "dplyr",
+      "Version": "1.2.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "glmnet",
+      "Version": "4.1-8",
+      "Priority": "external"
+    },
+    {
+      "Package": "mitml",
+      "Version": "0.4-5",
+      "Priority": "external"
+    },
+    {
+      "Package": "nnet",
+      "Version": "7.3-20",
+      "Priority": "recommended"
+    },
+    {
+      "Package": "rpart",
+      "Version": "4.1.24",
+      "Priority": "recommended"
+    },
+    {
+      "Package": "tidyr",
+      "Version": "1.3.2",
+      "Priority": "external"
+    },
+    {
+      "Package": "backports",
+      "Version": "1.5.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "generics",
+      "Version": "0.1.3",
+      "Priority": "external"
+    },
+    {
+      "Package": "purrr",
+      "Version": "1.0.4",
+      "Priority": "external"
+    },
+    {
+      "Package": "stringr",
+      "Version": "1.6.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "tidyselect",
+      "Version": "1.2.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "foreach",
+      "Version": "1.5.2",
+      "Priority": "external"
+    },
+    {
+      "Package": "shape",
+      "Version": "1.4.6.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "survival",
+      "Version": "3.8-3",
+      "Priority": "recommended"
+    },
+    {
+      "Package": "RcppEigen",
+      "Version": "0.3.4.0.2",
+      "Priority": "external"
+    },
+    {
+      "Package": "pan",
+      "Version": "1.9",
+      "Priority": "external"
+    },
+    {
+      "Package": "jomo",
+      "Version": "2.7-6",
+      "Priority": "external"
+    },
+    {
+      "Package": "haven",
+      "Version": "2.5.4",
+      "Priority": "external"
+    },
+    {
+      "Package": "codetools",
+      "Version": "0.2-20",
+      "Priority": "recommended"
+    },
+    {
+      "Package": "iterators",
+      "Version": "1.0.14",
+      "Priority": "external"
+    },
+    {
+      "Package": "forcats",
+      "Version": "1.0.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "readr",
+      "Version": "2.2.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "lme4",
+      "Version": "1.1-37",
+      "Priority": "external"
+    },
+    {
+      "Package": "MASS",
+      "Version": "7.3-65",
+      "Priority": "recommended"
+    },
+    {
+      "Package": "ordinal",
+      "Version": "2023.12-4.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "withr",
+      "Version": "3.0.2",
+      "Priority": "external"
+    },
+    {
+      "Package": "parallel",
+      "Version": "4.5.0",
+      "Priority": "base"
+    },
+    {
+      "Package": "boot",
+      "Version": "1.3-31",
+      "Priority": "recommended"
+    },
+    {
+      "Package": "minqa",
+      "Version": "1.2.8",
+      "Priority": "external"
+    },
+    {
+      "Package": "nloptr",
+      "Version": "2.2.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "reformulas",
+      "Version": "0.4.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "ucminf",
+      "Version": "1.2.2",
+      "Priority": "external"
+    },
+    {
+      "Package": "numDeriv",
+      "Version": "2016.8-1.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "clipr",
+      "Version": "0.8.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "vroom",
+      "Version": "1.7.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "tzdb",
+      "Version": "0.5.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "compiler",
+      "Version": "4.5.0",
+      "Priority": "base"
+    },
+    {
+      "Package": "Rdpack",
+      "Version": "2.6.3",
+      "Priority": "external"
+    },
+    {
+      "Package": "bit64",
+      "Version": "4.6.0-1",
+      "Priority": "external"
+    },
+    {
+      "Package": "bit",
+      "Version": "4.6.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "rbibutils",
+      "Version": "2.3",
+      "Priority": "external"
+    },
+    {
+      "Package": "carData",
+      "Version": "3.0-5",
+      "Priority": "external"
+    },
+    {
+      "Package": "abind",
+      "Version": "1.4-8",
+      "Priority": "external"
+    },
+    {
+      "Package": "Formula",
+      "Version": "1.2-5",
+      "Priority": "external"
+    },
+    {
+      "Package": "pbkrtest",
+      "Version": "0.5.4",
+      "Priority": "external"
+    },
+    {
+      "Package": "quantreg",
+      "Version": "6.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "scales",
+      "Version": "1.4.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "doBy",
+      "Version": "4.6.26",
+      "Priority": "external"
+    },
+    {
+      "Package": "SparseM",
+      "Version": "1.84-2",
+      "Priority": "external"
+    },
+    {
+      "Package": "MatrixModels",
+      "Version": "0.5-4",
+      "Priority": "external"
+    },
+    {
+      "Package": "farver",
+      "Version": "2.1.2",
+      "Priority": "external"
+    },
+    {
+      "Package": "labeling",
+      "Version": "0.4.3",
+      "Priority": "external"
+    },
+    {
+      "Package": "RColorBrewer",
+      "Version": "1.1-3",
+      "Priority": "external"
+    },
+    {
+      "Package": "viridisLite",
+      "Version": "0.4.2",
+      "Priority": "external"
+    },
+    {
+      "Package": "cowplot",
+      "Version": "1.1.3",
+      "Priority": "external"
+    },
+    {
+      "Package": "Deriv",
+      "Version": "4.1.6",
+      "Priority": "external"
+    },
+    {
+      "Package": "modelr",
+      "Version": "0.1.11",
+      "Priority": "external"
+    },
+    {
+      "Package": "microbenchmark",
+      "Version": "1.5.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "gtable",
+      "Version": "0.3.6",
+      "Priority": "external"
+    },
+    {
+      "Package": "isoband",
+      "Version": "0.2.7",
+      "Priority": "external"
+    },
+    {
+      "Package": "S7",
+      "Version": "0.2.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "rstan",
+      "Version": "2.32.7",
+      "Priority": "external"
+    },
+    {
+      "Package": "loo",
+      "Version": "2.10.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "rstantools",
+      "Version": "2.4.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "bayesplot",
+      "Version": "1.15.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "bridgesampling",
+      "Version": "1.1-2",
+      "Priority": "external"
+    },
+    {
+      "Package": "future",
+      "Version": "1.34.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "future.apply",
+      "Version": "1.11.3",
+      "Priority": "external"
+    },
+    {
+      "Package": "matrixStats",
+      "Version": "1.5.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "nleqslv",
+      "Version": "3.3.5",
+      "Priority": "external"
+    },
+    {
+      "Package": "coda",
+      "Version": "0.19-4.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "ggridges",
+      "Version": "0.5.6",
+      "Priority": "external"
+    },
+    {
+      "Package": "reshape2",
+      "Version": "1.4.4",
+      "Priority": "external"
+    },
+    {
+      "Package": "mvtnorm",
+      "Version": "1.3-3",
+      "Priority": "external"
+    },
+    {
+      "Package": "Brobdingnag",
+      "Version": "1.2-9",
+      "Priority": "external"
+    },
+    {
+      "Package": "digest",
+      "Version": "0.6.37",
+      "Priority": "external"
+    },
+    {
+      "Package": "globals",
+      "Version": "0.16.3",
+      "Priority": "external"
+    },
+    {
+      "Package": "listenv",
+      "Version": "0.9.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "parallelly",
+      "Version": "1.42.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "checkmate",
+      "Version": "2.3.2",
+      "Priority": "external"
+    },
+    {
+      "Package": "tensorA",
+      "Version": "0.36.2.1",
+      "Priority": "external"
+    },
+    {
+      "Package": "distributional",
+      "Version": "0.5.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "StanHeaders",
+      "Version": "2.32.10",
+      "Priority": "external"
+    },
+    {
+      "Package": "stats4",
+      "Version": "4.5.0",
+      "Priority": "base"
+    },
+    {
+      "Package": "inline",
+      "Version": "0.3.21",
+      "Priority": "external"
+    },
+    {
+      "Package": "gridExtra",
+      "Version": "2.3",
+      "Priority": "external"
+    },
+    {
+      "Package": "RcppParallel",
+      "Version": "5.1.7",
+      "Priority": "external"
+    },
+    {
+      "Package": "pkgbuild",
+      "Version": "1.4.6",
+      "Priority": "external"
+    },
+    {
+      "Package": "QuickJSR",
+      "Version": "1.6.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "BH",
+      "Version": "1.90.0-1",
+      "Priority": "external"
+    },
+    {
+      "Package": "desc",
+      "Version": "1.4.3",
+      "Priority": "external"
+    },
+    {
+      "Package": "callr",
+      "Version": "3.7.6",
+      "Priority": "external"
+    },
+    {
+      "Package": "processx",
+      "Version": "3.8.6",
+      "Priority": "external"
+    },
+    {
+      "Package": "plyr",
+      "Version": "1.8.9",
+      "Priority": "external"
+    },
+    {
+      "Package": "ps",
+      "Version": "1.9.0",
+      "Priority": "external"
+    },
+    {
+      "Package": "data.table",
+      "Version": "1.18.6.1",
+      "Priority": "external"
+    }
+  ]
+}

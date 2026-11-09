@@ -1,0 +1,300 @@
+{
+ "descripcion": "Lista cerrada del contenido publicable",
+ "archivos": [
+  {
+   "ruta": ".gitignore",
+   "sha256": "b66ecfe8b2505cba40fdbb5a6d0c424e2c7abde94093fc049481160833a58889",
+   "bytes": 2175
+  },
+  {
+   "ruta": "CITATION.cff",
+   "sha256": "2931d0355bc2538cec43d751c62676b38d4df0af93f9c5421e009d95c5096c1e",
+   "bytes": 1180
+  },
+  {
+   "ruta": "README.md",
+   "sha256": "09b9d6aa5ff29f617227a0ce60d7b59d66db1bfd6cd65e9e61e3e5599fe443c0",
+   "bytes": 6958
+  },
+  {
+   "ruta": "config/project.json",
+   "sha256": "c626ae855972874fe3f5654976d03c56935fbdc5398b2cd7ed7bd32cca4a2b47",
+   "bytes": 425
+  },
+  {
+   "ruta": "config/versiones_entorno.json",
+   "sha256": "5b8bdf777dd4f3717d59d35474f6d27f633261cfa3b2a9a42a32309de152c7cd",
+   "bytes": 13892
+  },
+  {
+   "ruta": "docs/estructura_datos_entrada.md",
+   "sha256": "3c735d17ca8767e673ef7e739b7562573891e1a01314368a051833ed88cf8f9d",
+   "bytes": 1718
+  },
+  {
+   "ruta": "docs/metodologia.md",
+   "sha256": "48aad207e549fd80a7e8dde4f64250f7bf37c956a7cbd9851d83835e7e310b46",
+   "bytes": 3173
+  },
+  {
+   "ruta": "docs/reproducibilidad.md",
+   "sha256": "c1586766e862e0b0d0afdafd1826f23738c389e6c3a3cc8ac7bc448d8d292a63",
+   "bytes": 4087
+  },
+  {
+   "ruta": "docs/revision_divulgacion.md",
+   "sha256": "de81c53a554c0e89896412353eb333f759f04b177ced0df68cb2927c893213c6",
+   "bytes": 2972
+  },
+  {
+   "ruta": "docs/zenodo/descripcion.md",
+   "sha256": "3b148e106cf9aa95829a9b428556a1e4d75fad4e07353817c6712c54a64fc715",
+   "bytes": 1835
+  },
+  {
+   "ruta": "docs/zenodo/metadatos_borrador.json",
+   "sha256": "35dd21f43534709985d9d4f02856dd6241674b97da3753e726c663c54791139c",
+   "bytes": 1370
+  },
+  {
+   "ruta": "docs/zenodo/publicacion.md",
+   "sha256": "59cabcd89e7ae52d9eabad9a8b76465d4e75c112ab0a234c7afc74be0b26fd30",
+   "bytes": 2153
+  },
+  {
+   "ruta": "renv.lock",
+   "sha256": "d8efe38adc3704172ff42472fe7075787cfa8814a18511292fd0e2b72068dc14",
+   "bytes": 294005
+  },
+  {
+   "ruta": "results/README.md",
+   "sha256": "c746a506a88c8ee8453484b1413bd7b61df24d6ebcc18e9378edc366410ead8d",
+   "bytes": 4459
+  },
+  {
+   "ruta": "results/figuras/comparacion_OR_poblaciones.pdf",
+   "sha256": "be98c8a387608b98aeb365a09945b7735a3bb69b78e3a869c3a26621ac6d9368",
+   "bytes": 6529
+  },
+  {
+   "ruta": "results/figuras/comparacion_OR_poblaciones.png",
+   "sha256": "85d6637a8ae3c945318e82cd0113c10ec3216bb6e5a53ec0ecebb70a6848be72",
+   "bytes": 87501
+  },
+  {
+   "ruta": "results/figuras/flujo_poblacion_principal.mmd",
+   "sha256": "88ec60f27d328792059883d249a0b3aae4dea0df33f5548d4d47d81a99d905b2",
+   "bytes": 285
+  },
+  {
+   "ruta": "results/figuras/flujo_poblacion_principal.pdf",
+   "sha256": "ac3d18c4da40b6af489235e53dc57e2c9db6b2d1b70dc9176b514ff747315a77",
+   "bytes": 6380
+  },
+  {
+   "ruta": "results/figuras/flujo_poblacion_principal.png",
+   "sha256": "86e7e92013914a3edfa4d1f94755ce8e54552beb6914fc218c40e961220239e6",
+   "bytes": 118206
+  },
+  {
+   "ruta": "results/informes/resumen_resultados_definitivos.md",
+   "sha256": "c558b80e4f976a64d462250f8a03a9516434890b7613bf1b74031e958846eb6a",
+   "bytes": 2484
+  },
+  {
+   "ruta": "results/informes/revision_STROBE.md",
+   "sha256": "ae34be8ae87e55c5df2dd5020a6530d691222e801811c97c76805d9605718d3d",
+   "bytes": 4356
+  },
+  {
+   "ruta": "results/referencias_historicas/modelo_principal_frecuentista_historico.csv",
+   "sha256": "8b0084370a598629e84c34210d4d1a45a5149f98bcc2e412357e5acfdf8cc015",
+   "bytes": 3548
+  },
+  {
+   "ruta": "results/tablas/complementarias/edad_spline_ORa.csv",
+   "sha256": "044be8d6f5df96bb801273afddd560ae4011f8aaeaef0ccac721f66bd0c0fdcf",
+   "bytes": 1962
+  },
+  {
+   "ruta": "results/tablas/complementarias/edad_spline_no_linealidad.csv",
+   "sha256": "03343529c852fc13e1c6924da998f9f1905e99bf13553c3a63e612e0f6ce3285",
+   "bytes": 264
+  },
+  {
+   "ruta": "results/tablas/complementarias/edades_extremas_ORa.csv",
+   "sha256": "a5b4fb46ba2e84ce30c1a5bf35b4a025e3d7de7ce2e71d05481bf97848835d4b",
+   "bytes": 1322
+  },
+  {
+   "ruta": "results/tablas/complementarias/tabla15S_or_crudas.csv",
+   "sha256": "064760d20083e518aa72e797ebc05d07a24228b556a8079810532808e4ed2804",
+   "bytes": 1582
+  },
+  {
+   "ruta": "results/tablas/principales/indice_tablas.csv",
+   "sha256": "7fac47ea89a05cdeb250321fd376d39c36b44cf5f208a1b172b7a35869f86452",
+   "bytes": 1975
+  },
+  {
+   "ruta": "results/tablas/principales/tabla_01.csv",
+   "sha256": "9a7ba109aaf1c2c2425fca433028465e46a37188e329115fec91fbad71217d52",
+   "bytes": 2627
+  },
+  {
+   "ruta": "results/tablas/principales/tabla_02.csv",
+   "sha256": "500655b6ba8a13ffae60c5a7507c008a8ed8f8cd8587464555c9c7c2834be82e",
+   "bytes": 3866
+  },
+  {
+   "ruta": "results/tablas/principales/tabla_03.csv",
+   "sha256": "97cfcd576a07524540da368423cb57108da10c23228040165209631c5d5a9982",
+   "bytes": 1486
+  },
+  {
+   "ruta": "results/tablas/principales/tabla_04.csv",
+   "sha256": "26499d2246f21d4af071161091ac19cca580a87293dc7745a8dc9a3f0f580cd7",
+   "bytes": 2373
+  },
+  {
+   "ruta": "results/tablas/principales/tabla_05.csv",
+   "sha256": "0a8f5306db3c6c2d5fc8285bbf921bfea74a720d8b8d68d876bd312eadee8c65",
+   "bytes": 702
+  },
+  {
+   "ruta": "results/tablas/principales/tabla_06.csv",
+   "sha256": "ee4c6f87ae50760796f006de3dd4f6dd28401014f0c11f61df266885c324bbd5",
+   "bytes": 390
+  },
+  {
+   "ruta": "results/tablas/principales/tabla_09.csv",
+   "sha256": "7eddee018d32d5bd20dd25a2472933685a019ab37bfbcc22f855369579de6492",
+   "bytes": 6405
+  },
+  {
+   "ruta": "results/tablas/principales/tabla_10.csv",
+   "sha256": "112c8f58bb43739bb3b5b576186c3db2d0989170e1ade124a813d59d3ae06c97",
+   "bytes": 3750
+  },
+  {
+   "ruta": "results/tablas/principales/tabla_11.csv",
+   "sha256": "9260e0dc5aac013de46bd20355e32986cab28a2d10f5e700408bf44998bb053b",
+   "bytes": 1094
+  },
+  {
+   "ruta": "results/tablas/principales/tabla_12.csv",
+   "sha256": "53186edfbbb953848db14f415d9e248f1f79409eb785fa8748e1a0ea0264b5cf",
+   "bytes": 2804
+  },
+  {
+   "ruta": "results/tablas/principales/tabla_13.csv",
+   "sha256": "192283a101f88e7a1e8e3b43dc30527aaafa2c1a6f33a1d2acc707cb382a2c31",
+   "bytes": 11017
+  },
+  {
+   "ruta": "results/tablas/principales/tabla_14.csv",
+   "sha256": "7bfbf1ee28ac7504dfb1f9a881ba5944851c4fbad0779a5b44f5e9142bae289d",
+   "bytes": 433
+  },
+  {
+   "ruta": "results/tablas/principales/tabla_16.csv",
+   "sha256": "f2cc65153b426a46e593e5c42d18c25cf61731045937856d7ede849f2cbc0096",
+   "bytes": 510
+  },
+  {
+   "ruta": "results/tablas/principales/tabla_17.csv",
+   "sha256": "981ea0d32bec92b55bd19859c992c5c5a2451258e034024bfd69ab942f6d031b",
+   "bytes": 6413
+  },
+  {
+   "ruta": "scripts/analisis_complementarios/07_tabla15S_or_crudas.R",
+   "sha256": "6f3edb1fd743282ae9e9221bb2cae52be71e7b049b7a327b7d3e1eefd52db1fb",
+   "bytes": 8328
+  },
+  {
+   "ruta": "scripts/analisis_complementarios/08_sensibilidad_edad_spline.R",
+   "sha256": "07e43b4887041b3ccd5d83da1285bdeea005514505dcd6ccd47ad8aa177a37ec",
+   "bytes": 8838
+  },
+  {
+   "ruta": "scripts/analisis_complementarios/09_sensibilidad_edades_extremas.R",
+   "sha256": "b2409194c15490f3465985143fadbe701c724e2b85cc24ed4e502947cb4e403c",
+   "bytes": 7326
+  },
+  {
+   "ruta": "scripts/reconstruccion_reanalisis/01_reconstruir_validar.R",
+   "sha256": "07f8ce5208bbe89792d322c0030774100de53cb73a64df2314254facb606ceee",
+   "bytes": 23502
+  },
+  {
+   "ruta": "scripts/reconstruccion_reanalisis/02_descriptivos_modelos.R",
+   "sha256": "6d595fae03097018bd62fdba23dc8b476d578b98b416e1ce34ea39c77a441b01",
+   "bytes": 14119
+  },
+  {
+   "ruta": "scripts/reconstruccion_reanalisis/02b_recuperar_exportacion.R",
+   "sha256": "0d6f52d90f1e357140050420fc51e2006162bfe8ff10cf35689af4439fccd241",
+   "bytes": 5593
+  },
+  {
+   "ruta": "scripts/reconstruccion_reanalisis/03_bayes_priors.R",
+   "sha256": "ebbbac73dc4466ed76a795d04c457dded82f1b7f427c186877e4b15734e8f11b",
+   "bytes": 8835
+  },
+  {
+   "ruta": "scripts/reconstruccion_reanalisis/04_secundarios.R",
+   "sha256": "ab8c6441e42c31393b6e94095eb4448ddda7db8da89b4fedf60e498a63bd3a4a",
+   "bytes": 5509
+  },
+  {
+   "ruta": "scripts/reconstruccion_reanalisis/05_bayes_score.R",
+   "sha256": "7078bb00ae47eb2bf09ea31c1ae647b7f4c83e78a6adbfc1c73fb92c5d06288e",
+   "bytes": 5406
+  },
+  {
+   "ruta": "scripts/reconstruccion_reanalisis/06_comparacion_control_figuras.R",
+   "sha256": "169fafce3d0ad208ea6facef4cfee09a0151aff8f9d0e2d86c65282dbfd446c7",
+   "bytes": 8088
+  },
+  {
+   "ruta": "scripts/reconstruccion_reanalisis/06b_render_figuras.R",
+   "sha256": "025d34add063cf5104bfecf29324608e36c8cb42a4f3c96458c43665b5c3c33b",
+   "bytes": 3916
+  },
+  {
+   "ruta": "scripts/revision_cientifica_final/01_auditar.R",
+   "sha256": "fff2de78c3e010d7d64941fce4f4a162dd27984137933e70412744caa0d4c8df",
+   "bytes": 8564
+  },
+  {
+   "ruta": "scripts/revision_cientifica_final/03_comprobar_secundarios.R",
+   "sha256": "92923bc3c19cde1ade2c06e37b964f8858bf86d16bc6f0f70f01d1a24068cf2c",
+   "bytes": 5564
+  },
+  {
+   "ruta": "scripts/verificacion/auditar_paquete.py",
+   "sha256": "10e46fd6042a16cf2e34164d7145b2102a50fa90f654155e3da62df43f408c67",
+   "bytes": 4655
+  },
+  {
+   "ruta": "scripts/verificacion/comprobar_dependencias.R",
+   "sha256": "890801d0e7ec0116b1904a26b2c4b7ca6698a1cebfc70f08ee57068e1d46cac6",
+   "bytes": 505
+  },
+  {
+   "ruta": "scripts/verificacion/comprobar_rutas.R",
+   "sha256": "c537f5ed0fad4ac16e0296f595e80d418e08584cbe0ab4b156ed169470e51b6d",
+   "bytes": 757
+  },
+  {
+   "ruta": "scripts/verificacion/restaurar_entorno.R",
+   "sha256": "9a58579685cd56fa8a4bbc53f22a56c436554404765ab86d8359ee886e201868",
+   "bytes": 562
+  },
+  {
+   "ruta": "scripts/verificacion/rutas.R",
+   "sha256": "88d5d2b5c05f2927c02284bed0873b22cf5587cc09b88ebd9542d4e963b8da2f",
+   "bytes": 862
+  }
+ ]
+}
