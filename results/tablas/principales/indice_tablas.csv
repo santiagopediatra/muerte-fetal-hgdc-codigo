@@ -1,0 +1,18 @@
+"archivo","documento","titulo","filas","columnas"
+"tabla_01.csv","main","Tabla 1. Características maternas, sociodemográficas y de atención prenatal de gestaciones únicas elegibles.",30,3
+"tabla_02.csv","main","Tabla 2. Características clínicas, obstétricas y de la gestación en la población principal.",44,3
+"tabla_03.csv","main","Tabla 3. Modelo multivariable principal: Firth y Bayes en 23.138 casos completos, con 418 eventos de muerte fetal registrada.",17,5
+"tabla_04.csv","main","Tabla 4. Modelos secundarios por dominio reestimados en la población principal.",24,4
+"tabla_05.csv","main","Tabla 5. Sensibilidad de las ORa de Firth (IC95%) a la definición de población.",4,5
+"tabla_06.csv","supp","Tabla S1. Poblaciones, desenlace y pérdidas por covariables.",4,6
+"tabla_07.csv","supp","Tabla S2. Denominadores, datos faltantes y resúmenes continuos completos de la población principal.",147,8
+"tabla_08.csv","supp","Tabla S3. Características de los eventos de gestaciones múltiples.",11,3
+"tabla_09.csv","supp","Tabla S4. Todas las covariables de Firth en las cuatro poblaciones.",68,5
+"tabla_10.csv","supp","Tabla S5. Sensibilidad bayesiana completa a las distribuciones previas.",51,5
+"tabla_11.csv","supp","Tabla S6. Comprobaciones predictivas posteriores para los tres priors.",15,6
+"tabla_12.csv","supp","Tabla S7. Resultados completos de los modelos bayesianos sin y con Score Mamá.",35,5
+"tabla_13.csv","supp","Tabla S8. Resultados completos de los pares de Firth con variables adicionales.",140,5
+"tabla_14.csv","supp","Tabla S9. Diagnósticos de los cinco ajustes bayesianos corregidos.",5,7
+"tabla_15.csv","supp","Tabla S10. Distribuciones categóricas adicionales de gestaciones únicas elegibles.",140,3
+"tabla_16.csv","supp","Tabla S11. Distribución por año de ingreso registrado y anomalías residuales de fechas.",10,7
+"tabla_17.csv","supp","Tabla S12. Regresión logística convencional comparativa en las cuatro poblaciones.",68,5

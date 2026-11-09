@@ -1,0 +1,23 @@
+# BORRADOR — NO PUBLICAR SIN COMPLETAR.
+# Pendiente de confirmación por el titular: autores (nombres, afiliaciones, ORCID), licencia,
+# fecha de publicación y DOI. No se inventó ninguno de estos datos.
+cff-version: 1.2.0
+message: "Si utiliza este código, cítelo con los metadatos de este archivo."
+type: software
+title: "Código y resultados agregados: Características asociadas con muerte fetal registrada en gestaciones únicas del Hospital General Docente Calderón, Quito, Ecuador, 2018–2023"
+version: 1.0.0
+authors:
+  - name: "PENDIENTE: autores confirmados por el titular de los derechos"
+abstract: >-
+  Código de reconstrucción y análisis, y resultados agregados de un estudio
+  transversal retrospectivo de registros hospitalarios (2018–2023) sobre
+  características asociadas con muerte fetal registrada en gestaciones únicas
+  del Hospital General Docente Calderón (Quito, Ecuador). No incluye datos
+  individuales; el acceso a la base requiere autorización del Hospital General
+  Docente Calderón (HGDC).
+keywords:
+  - muerte fetal registrada
+  - desprendimiento prematuro de placenta
+  - gestaciones únicas
+  - registros hospitalarios
+  - Ecuador

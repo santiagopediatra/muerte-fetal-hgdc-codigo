@@ -1,0 +1,11 @@
+{
+  "project": "HGDC",
+  "periodo": "2018–2023",
+  "data_dir": "private_data",
+  "resultados_privados": "private_data/reconstruccion_reanalisis",
+  "revision_privada": "private_data/revision_cientifica_final",
+  "fuente_corregida": "private_data/fuentes/BASE_OBITO_MAESTRA.xlsx",
+  "hoja": "BASE_ORIGINAL",
+  "fuente_historica_comparacion": "private_data/fuentes/BASE_OBITO_HISTORICA.xlsx",
+  "modelos_completados": true
+}

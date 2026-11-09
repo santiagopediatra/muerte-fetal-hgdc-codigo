@@ -1,0 +1,25 @@
+{
+  "_estado": "BORRADOR pendiente de aprobación. No mover a .zenodo.json en la raíz hasta completar los campos PENDIENTE.",
+  "upload_type": "software",
+  "title": "Código y resultados agregados: Características asociadas con muerte fetal registrada en gestaciones únicas del Hospital General Docente Calderón, Quito, Ecuador, 2018–2023",
+  "version": "v1.0.0",
+  "language": "spa",
+  "creators": [
+    {"name": "PENDIENTE: Apellido, Nombre", "affiliation": "PENDIENTE", "orcid": "PENDIENTE (opcional)"}
+  ],
+  "description": "Ver docs/zenodo/descripcion.md (texto definitivo tras aprobación).",
+  "keywords": [
+    "muerte fetal registrada",
+    "desprendimiento prematuro de placenta",
+    "gestaciones únicas",
+    "registros hospitalarios",
+    "Ecuador"
+  ],
+  "publication_date": "PENDIENTE (fecha de publicación del depósito)",
+  "access_right": "PENDIENTE: open (requiere licencia) | restricted",
+  "license": "PENDIENTE: definida por el titular de los derechos",
+  "related_identifiers": [
+    {"relation": "isSupplementTo", "identifier": "PENDIENTE: URL del repositorio GitHub o DOI del artículo", "resource_type": "software"}
+  ],
+  "notes": "No contiene datos individuales. La base de datos es propiedad del Hospital General Docente Calderón (HGDC); su acceso requiere la autorización del HGDC conforme a la aprobación ética CEISH-HGDC."
+}
